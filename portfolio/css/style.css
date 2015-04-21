@@ -1,0 +1,16 @@
+body {
+	font-family: 'Playfair Display', serif;
+	font-weight: 300;
+}
+
+.theme-text-thin {
+	font-weight: 100;
+}
+
+.main-title {
+	font-size: 60px;
+}
+
+.main-logo {
+	margin-top: 20px;
+}
